@@ -64,7 +64,7 @@
     "versionPublish": "5.9.6",
     "screenshot": "screenshot.png",
     "publishChangesOnly": true,
-    "mbrsiteDomain": "xpslym7wke",
+    "mbrsiteDomain": "9a8jwyvge0",
     "mcShopcart": {
       "email": "info@thehappyhelpers.org",
       "currency": "USD"
@@ -75,7 +75,7 @@
       "size": "65px",
       "backgroundColor": "#e5ddd5",
       "position": "left",
-      "popupMessage": "Salut, \n\nComment pouvons-nous vous aidez aujourd'hui?",
+      "popupMessage": "Salut, \nBienvenue sur ESPA, vous pouvez preparer votre BTS ou votre DUT avec ou sans le BAC.\nComment pouvons-nous vous aidez aujourd'hui?",
       "showPopup": true,
       "showOnIE": true,
       "autoOpenTimeout": "10",
@@ -84,7 +84,8 @@
       "placeholder": "Type here",
       "zIndex": 10,
       "enabled": true
-    }
+    },
+    "usedWebp": false
   },
   "pages": {
     "index.html": {
